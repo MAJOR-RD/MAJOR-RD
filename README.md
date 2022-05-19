@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MAJOR-RD(Matheus)
+- 👀 Tenho interesse em aprender progamaçÃo
+- 🌱 Atualmente estou estudando desenvolvimento de sistemas
+- Estou em busca de oportunidades e auxílio para melhorar como progamador
